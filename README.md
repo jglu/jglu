@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hey there, I'm Jessica 👋
 
 <!--
+_Stats & Computational Math_ student @ the <a href="https://uwaterloo.ca/math/" target="_blank">University of Waterloo</a>
+
+
 **jglu/jglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
