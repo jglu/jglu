@@ -1,6 +1,11 @@
 ### Hey there, I'm Jessica 👋
 
+I'm a [statistics](https://uwaterloo.ca/future-students/programs/statistics "Statistics Program Details") & [computational math](https://uwaterloo.ca/future-students/programs/computational-mathematics "Computational Mathematics Program Details") student at the University of Waterloo!
+
 <!--
+prev Application Dev @ CIBC, currently Automation Dev @ Onlia
+
+
 _Stats & Computational Math_ student @ the <a href="https://uwaterloo.ca/math/" target="_blank">University of Waterloo</a>
 
 
