@@ -1,10 +1,12 @@
-### Hey, I'm Jessica 👋
+### Hey there, I'm Jessica 👋
 
-I'm a [statistics](https://uwaterloo.ca/future-students/programs/statistics "Statistics Program Details") & [computational math](https://uwaterloo.ca/future-students/programs/computational-mathematics "Computational Mathematics Program Details") student at the University of Waterloo!
+I'm a [statistics](https://uwaterloo.ca/future-students/programs/statistics "Statistics Program Details") & [computational math](https://uwaterloo.ca/future-students/programs/computational-mathematics "Computational Mathematics Program Details") undergraduate student at the University of Waterloo!
 
 I'm currently learning about: [prompt engineering](https://en.wikipedia.org/wiki/Prompt_engineering), high-level [AWS](https://aws.amazon.com/what-is-aws/) cloud concepts, and [UX](https://lawsofux.com/)!
 
 <!--
+![](https://komarev.com/ghpvc/?username=jglu&color=358178&style=flat&abbreviated=true)
+
 prev Application Dev @ CIBC, current Automation Dev @ Onlia
 
 **jglu/jglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
